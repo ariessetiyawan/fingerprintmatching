@@ -2,6 +2,9 @@
 how to make attendance using fingerprint image with AZ620-m5, ESP8266 and Ethernet module
 
 Wireing
+
+![esp8266-W5500](https://github.com/user-attachments/assets/43f5678d-b819-4817-b4af-7ff17926ab39)
+
 | SPI PHY  | -- |ESP8266 |
 | ---------|----| ------------- |
 |SCK	  |---|	GPIO14(D5)|
