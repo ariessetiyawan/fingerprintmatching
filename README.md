@@ -12,7 +12,7 @@ Wireing
 |MOSI	|---|	GPIO13(D7)|
 |CS  |---|GPIO16(D0)(*)|
 |RST  |---|RESET|
-|3.3V |---| 3.3V|
+|5V |---| Vin|
 |GND  |---|GND|
 
 
